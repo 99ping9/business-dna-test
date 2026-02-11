@@ -18,7 +18,7 @@ export default function Landing() {
                     <Sparkles className="h-10 w-10 text-primary" />
                 </div>
                 <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-3">
-                    1인 기업가<br />
+                    1인 사업자<br />
                     <span className="text-primary">강점 DNA 진단하기</span>
                 </h1>
                 <p className="text-lg text-gray-600 mb-8 max-w-sm mx-auto">
