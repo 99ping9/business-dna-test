@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3B82F6;
+  --color-background: #F8FAFC;
+  --color-card: #FFFFFF;
+  --color-text: #1F2937;
+
+  --radius-2xl: 1rem;
+  --radius-3xl: 1.5rem;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+  }
+}
