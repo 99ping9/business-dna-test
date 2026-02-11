@@ -96,10 +96,18 @@ export default function Result() {
 
                     <div className="w-full space-y-3">
                         <Button
-                            className="w-full py-6 text-lg shadow-lg shadow-blue-500/20"
-                            onClick={() => window.open("https://bit.ly/business-design", "_blank")}
+                            variant="outline"
+                            className="w-full py-6 text-lg shadow-sm mb-3 border-blue-200 text-blue-600 hover:bg-blue-50"
+                            onClick={() => window.open("https://litt.ly/potential_consulting", "_blank")}
                         >
-                            내게 맞는 비즈니스 설계 받기
+                            비아 | 포텐셜디렉터 알아보기
+                        </Button>
+
+                        <Button
+                            className="w-full py-6 text-lg shadow-lg shadow-blue-500/20"
+                            onClick={() => window.open("https://tally.so/r/1A7Gzg", "_blank")}
+                        >
+                            1:1 잠재력&강점 진단받기(무료)
                         </Button>
 
                         <div className="grid grid-cols-2 gap-3">

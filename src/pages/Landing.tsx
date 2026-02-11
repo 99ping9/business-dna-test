@@ -19,7 +19,7 @@ export default function Landing() {
                 </div>
                 <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-3">
                     1인 기업가<br />
-                    <span className="text-primary">비즈니스 DNA 테스트</span>
+                    <span className="text-primary">강점 DNA 진단하기</span>
                 </h1>
                 <p className="text-lg text-gray-600 mb-8 max-w-sm mx-auto">
                     나의 성향에 딱 맞는<br />
